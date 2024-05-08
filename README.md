@@ -27,9 +27,10 @@ Data set used for analysis is provided by the firm.
 
 
 ## Technologies Used
-- library - version 1.0
-- library - version 2.0
-- library - version 3.0
+- Python - version 3.9.7
+- pandas - version 1.3.4
+- seaborn - version 0.11.2
+- matplotlib  - version 3.4.3
 
 <!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
 

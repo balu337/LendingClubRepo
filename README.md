@@ -1,7 +1,5 @@
 # Lending Club Risk Analysis
-Business Context : Analysis of loan applications of Urban borrowers by Consumer finance company. Company is looking for a model to minimize the risk of default or write offs.
 
-Problem Statement : Identifying drivers to minimize Risky Loan Applications which can be used by Analyst
 
 
 ## Table of Contents
@@ -13,20 +11,19 @@ Problem Statement : Identifying drivers to minimize Risky Loan Applications whic
 <!-- You can include any other section that is pertinent to your problem -->
 
 ## General Information
-- Provide general information about your project here.
-- What is the background of your project?
-- What is the business probem that your project is trying to solve?
-- What is the dataset that is being used?
+Business Context : Analysis of loan applications of Urban borrowers by Consumer finance company. Company is looking for a model to minimize the risk of default or write offs.
 
-<!-- You don't have to answer all the questions - just the ones relevant to your project. -->
+Problem Statement : Identifying drivers to minimize Risky Loan Applications which can be used by Analyst- Provide general information about your project here.
+
+Data set used for analysis is provided by the firm.
 
 ## Conclusions
-- Conclusion 1 from the analysis
-- Conclusion 2 from the analysis
-- Conclusion 3 from the analysis
-- Conclusion 4 from the analysis
-
-<!-- You don't have to answer all the questions - just the ones relevant to your project. -->
+- Loans with higher interest rates are like to be risky.
+- Borrowers staying in renting accommodation or mortgaged house are risky applications
+- Loans taken for Debt consolidation are risky for the lenders
+- Borrowers of ‘No record of Public Recorded Bankruptcy’ are safe choice to issue loan.
+- California, Florida and New York applications are risky.
+- Borrowers with Higher % of revolving debt utilization need to be considered as risky.
 
 
 ## Technologies Used
@@ -44,7 +41,7 @@ Give credit here.
 
 
 ## Contact
-Created by [@githubusername] - feel free to contact me!
+Created by [@balu337] - feel free to contact me!
 
 
 <!-- Optional -->

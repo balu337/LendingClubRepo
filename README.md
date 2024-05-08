@@ -1,6 +1,6 @@
 # Lending Club Risk Analysis
 
-
+Project involves identifying factors or charecterstics of a risky borrowers. Deliverables of the project is come up list of factors which can be used by Analyts to determine risk of a loan
 
 ## Table of Contents
 * [General Info](#general-information)

@@ -1,5 +1,7 @@
-# Project Name
-> Outline a brief description of your project.
+# Lending Club Risk Analysis
+Business Context : Analysis of loan applications of Urban borrowers by Consumer finance company. Company is looking for a model to minimize the risk of default or write offs.
+
+Problem Statement : Identifying drivers to minimize Risky Loan Applications which can be used by Analyst
 
 
 ## Table of Contents
